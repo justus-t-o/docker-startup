@@ -1,2 +1,9 @@
-pytest
+PyYAML
+jinja2-tools
+jinja2-cli
+black==23.1.0
+wheel
 boto3
+pytest
+pytest-json-report
+pytest-xdist
